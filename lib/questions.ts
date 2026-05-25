@@ -1528,7 +1528,7 @@ export const questions: Question[] = [
   {
     id: 58,
     topic: "Pitching",
-    difficulty: "Sulit",
+    difficulty: "Studi Kasus",
     origin: "Diadaptasi dari UAS",
     question: "A founder spends 80% of her pitch deck explaining the technical architecture of her AI-powered waste sorting system, but only mentions briefly that 'people need better recycling.' What is the MOST likely weakness of this pitch?",
     options: [
@@ -1544,7 +1544,7 @@ export const questions: Question[] = [
   {
     id: 59,
     topic: "Teknologi Smart City",
-    difficulty: "Sulit",
+    difficulty: "Studi Kasus",
     origin: "Diadaptasi dari UAS",
     question: "A city deploys thousands of IoT sensors across public parks to monitor air quality and soil moisture. A security researcher discovers that the sensors have default passwords and unencrypted data transmissions. What is the most significant risk posed by this vulnerability?",
     options: [
@@ -1560,7 +1560,7 @@ export const questions: Question[] = [
   {
     id: 60,
     topic: "Pengantar & Smart City",
-    difficulty: "Sulit",
+    difficulty: "Studi Kasus",
     origin: "Diadaptasi dari UAS",
     question: "A technopreneur wants to build a Smart City solution that genuinely improves quality of life. She studies the city's waste management system and discovers that informal waste pickers collect 30% of recyclables but earn very little and have no health insurance. Which approach BEST reflects the essence of technopreneurship?",
     options: [
